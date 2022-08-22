@@ -10,13 +10,13 @@ given
 This is the best version of the thing I love 
 and nothing could ever hope to replace it
 I hope that this thing will stay with me forever
-despite the slow match of time
+despite the slow march of time
 
 input 
 the
 */
 
-const given = 'This is the best version of the thing I love and nothing could ever hope to replace it.  I hope that this thing will stay with me forever, despite the slow match of time';
+const given = 'This is the best version of the thing I love and nothing could ever hope to replace it.  I hope that this thing will stay with me forever, despite the slow march of time';
 
 const input = 'the';
 
