@@ -17,6 +17,7 @@ shipment obj
 rate obj
 {
     crewRate: 250, (cents per person)
+    weight: 500, (cents per pound)
     dimensional: 100, (cents per cubic inch)
 }
 
