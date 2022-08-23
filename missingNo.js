@@ -1,5 +1,4 @@
 /*
-
 given an array of numbers from 1 - n
 find the missing value from the array
 
