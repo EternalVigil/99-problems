@@ -50,6 +50,7 @@ const traverseTree = (node, level) => {
 };
 
 traverseTree(root, 0);
+
 const leftValues = Object.values(rowValues).map((valueSet) => {
     return valueSet[0];
 });
