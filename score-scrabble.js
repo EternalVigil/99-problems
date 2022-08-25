@@ -1,0 +1,5 @@
+/*
+Trying to emulate the game scrabble
+given a hand of tiles with a letter and a score
+find all the potentials hands and return the hand that generates the highest score
+*/
